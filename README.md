@@ -14,6 +14,9 @@ Linux için:
 ``cd kodluyoruz ilk repo 
 code .``
 
+cd kodluyoruzilkrepo
+code .
+
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce nereyi değiştirmek istediğinizi tartışmak için bir konu açınız. 
 
