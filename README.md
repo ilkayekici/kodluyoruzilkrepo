@@ -22,5 +22,5 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce nereyi değiştirmek istediğinizi tartışmak için bir konu açınız. 
 
 # License
-* https://choosealicense.com/licenses/mit/
-* https://app.patika.dev/ilkayekici
+* [MIT](https://choosealicense.com/licenses/mit/)
+* [patika.dev](https://app.patika.dev/ilkayekici)
