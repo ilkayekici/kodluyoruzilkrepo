@@ -11,9 +11,9 @@ Bu repo Kodluyoruz Front-end eğitiminde oluşturduğumuz ilk repo. İçerisinde
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
-``cd kodluyoruz ilk repo 
+`cd kodluyoruz ilk repo 
 
-code .``
+code .`
 
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce nereyi değiştirmek istediğinizi tartışmak için bir konu açınız. 
